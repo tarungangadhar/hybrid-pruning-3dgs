@@ -39,7 +39,7 @@ plyfile lpips==0.1.4 imageio matplotlib tqdm scikit-learn plotly
 
 **Steps:**
 1. Upload your 3DGS **scene PLY** (standard 3DGS fields: `x,y,z`, `opacity`, `scales`, `rot` (quaternion), `f_dc_*`, `f_rest`).
-2. Open `code/pruneandproove.py` in Colab and set:
+2. Open `code/HybridPruning.ipnyb` in Colab and set:
    - `SCENE_PLY` → path to your PLY  
    - `OUTPUT_DIR` → an output folder
 3. Run all cells. It will:
