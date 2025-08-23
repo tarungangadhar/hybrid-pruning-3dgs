@@ -2,7 +2,7 @@
 
 Practical framework to **prune** 3D Gaussian Splatting scenes using a **hybrid ranking signal** (SH energy, multi-view projected area, visibility, local density) with robust normalization and simple post-cleanup. Goal: **sharply reduce size** while **preserving visual quality**.
 
-> 📄 Full write-up: see [`docs/HybridPruningFramework3DGSFinalized.pdf`](docs/HybridPruningFramework.pdf)
+> 📄 Full write-up: see [`docs/HybridPruningFramework.pdf`](docs/HybridPruningFramework.pdf)
 
 ---
 
