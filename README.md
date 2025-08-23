@@ -69,7 +69,7 @@ Comparison of **single-signal** pruning vs **Hybrid** (example scene):
 
 ![Rate–Distortion curve](assets/rd_curve.png)
 
-Qualitative comparison (left: baseline, right: Hybrid at similar size):  
+Qualitative comparison (top: baseline, bottom: Hybrid ):  
 ![Side-by-side comparison](assets/comparison.png)
 
 For methodology, ablations, and limitations, see the PDF:  
