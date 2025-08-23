@@ -84,7 +84,6 @@ For methodology, ablations, and limitations, see the PDF:
 
 ## Notes & Limitations
 
-- Script is **Colab-oriented** (no CLI args yet).  
 - Visibility & area rely on provided camera intrinsics/poses; if unavailable, the code falls back to safe defaults and still produces **energy/density**-based pruning.  
 - For reproducible RD numbers across scenes, keep the **same hyperparameters** and view grids.
 
