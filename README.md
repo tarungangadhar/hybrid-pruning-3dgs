@@ -73,7 +73,7 @@ Qualitative comparison (top: baseline, bottom: Hybrid ):
 ![Side-by-side comparison](assets/comparison.png)
 
 For methodology, ablations, and limitations, see the PDF:  
-[`docs/HybridPruningFramework3DGSFinalized.pdf`](docs/HybridPruningFramework.pdf)
+[`docs/HybridPruningFramework.pdf`](docs/HybridPruningFramework.pdf)
 
 ---
 
