@@ -78,16 +78,7 @@ For methodology, ablations, and limitations, see the PDF:
 ---
 
 ## Project structure
-hybrid-pruning-3dgs/
-├─ code/
-│ └─ pruneandproove.py # Colab-style script (set paths at top)
-├─ docs/
-│ └─ HybridPruningFramework3DGSFinalized.pdf
-├─ assets/
-│ ├─ rd_curve.png # saved by the script
-│ └─ comparison.png # save any qualitative figures here
-└─ README.md
-
+<img width="329" height="180" alt="image" src="https://github.com/user-attachments/assets/233fc107-6ac8-4dcb-85e0-738caf43c61b" />
 
 ---
 
