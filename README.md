@@ -1,0 +1,1 @@
+# hybrid-pruning-3dgs
