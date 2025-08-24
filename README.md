@@ -78,7 +78,8 @@ For methodology, ablations, and limitations, see the PDF:
 ---
 
 ## Project structure
-<img width="329" height="180" alt="image" src="https://github.com/user-attachments/assets/233fc107-6ac8-4dcb-85e0-738caf43c61b" />
+<img width="251" height="188" alt="image" src="https://github.com/user-attachments/assets/233374db-f0bd-4a66-aff7-accaf35c9100" />
+
 
 ---
 
