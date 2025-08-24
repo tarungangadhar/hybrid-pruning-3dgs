@@ -6,6 +6,8 @@ Practical framework to **prune** 3D Gaussian Splatting scenes using a **hybrid r
 
 > Colab Link: https://colab.research.google.com/drive/1-OYCbrE-18xsFSiuIOw00DeE2TUTcvyO?usp=sharing
 
+> Project Website: https://tarungangadhar.github.io/hybrid-pruning-3dgs-website/
+
 ---
 
 ## Why
