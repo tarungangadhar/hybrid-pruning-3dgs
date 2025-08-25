@@ -1,4 +1,4 @@
-# Hybrid Pruning for 3D Gaussian Splatting (3DGS)
+# Hybrid Pruning for 3D Gaussian Splatting 
 
 Practical framework to **prune** 3D Gaussian Splatting scenes using a **hybrid ranking signal** (SH energy, multi-view projected area, visibility, local density) with robust normalization and simple post-cleanup. Goal: **sharply reduce size** while **preserving visual quality**.
 
